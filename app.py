@@ -12,3 +12,8 @@ with col2:
 
 with col3:
     st.write(' she is bad at studey , i can imagin where is study  will take her')
+
+
+st.header('courses')
+st.header('Data science')
+st.header('apply machine learing')
