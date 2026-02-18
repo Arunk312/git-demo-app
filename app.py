@@ -5,7 +5,7 @@ st.title('Pg')
 col1,col2, col3 = st.columns(3)
 
 with col1:
-    st.image('cuty.jpg',width=300)
+    st.image('cuty2.jpg',width=300)
 
 with col2:
     st.write('One of my noughty student')
