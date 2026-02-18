@@ -21,5 +21,7 @@ st.sidebar.markdown("""
 - Home
 - about 
 - contect
+- career
+- logine                    
 """)
 st.sidebar.write('sidebar create ot test delete branch')
