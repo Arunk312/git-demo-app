@@ -27,3 +27,5 @@ st.sidebar.markdown("""
 st.sidebar.write('sidebar create ot test delete branch')
 st.sidebar.selectbox('select one',['student','friend'])
 st.sidebar.button('select')
+
+st.title('Hello student')
