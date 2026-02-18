@@ -25,7 +25,8 @@ st.sidebar.markdown("""
 - logine                    
 """)
 st.sidebar.write('sidebar create ot test delete branch')
-st.sidebar.selectbox('select one',['student','friend'])
-st.sidebar.button('select')
+option = st.sidebar.selectbox('select one',['student','friend'])
+btn = st.sidebar.button('select')
 
-st.title('Hello student')
+if btn:
+    st.title('hello' + option)
